@@ -1,0 +1,2 @@
+rootProject.name = "TMDB Helper"
+include ':app'
